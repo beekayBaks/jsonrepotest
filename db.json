@@ -1,0 +1,69 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "firstname": "John",
+            "lastname": "Doe",
+            "email": "john@gmail.com",
+            "age": 34,
+            "companyId": "1"
+        },
+        {
+            "id": 1,
+            "firstname": "Hector",
+            "lastname": "Lamb",
+            "email": "neque@imperdietnon.co.uk",
+            "age": 35,
+            "companyId": "1"
+        },
+        {
+            "id": 2,
+            "firstname": "Mason",
+            "lastname": "Holcomb",
+            "email": "eu.accumsan.sed@Quisqueimperdiet.edu",
+            "age": 26,
+            "companyId": "1"
+        },
+        {
+            "id": 3,
+            "firstname": "Zeus",
+            "lastname": "Sanford",
+            "email": "magna@amagna.com",
+            "age": 49,
+            "companyId": "3"
+        },
+        {
+            "id": 4,
+            "firstname": "Zahir",
+            "lastname": "Mayer",
+            "email": "Cum@nullamagnamalesuada.org",
+            "age": 56,
+            "companyId": "2"
+        },
+        {
+            "id": 5,
+            "firstname": "Graham",
+            "lastname": "Wall",
+            "email": "Morbi.neque.tellus@lectus.com",
+            "age": 36,
+            "companyId": "3"
+        }
+    ],
+    "companies": [
+        {
+            "ID": 1,
+            "Name": "Rhoncus Donec Est Consulting",
+            "Description": "6784 Vitae Ave"
+        },
+        {
+            "ID": 2,
+            "Name": "Lectus Nullam Suscipit Industries",
+            "Description": "P.O. Box 955, 1433 Pede, Road"
+        },
+        {
+            "ID": 3,
+            "Name": "At Foundation",
+            "Description": "Ap #654-5042 Sed, Road"
+        }
+    ]
+}
